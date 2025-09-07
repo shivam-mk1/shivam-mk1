@@ -24,7 +24,6 @@ I love building apps that solve real-world problems and exploring the latest tec
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ---
 
@@ -38,7 +37,7 @@ I love building apps that solve real-world problems and exploring the latest tec
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?shivam-mk1=your_github_username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-mk1&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
