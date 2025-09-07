@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I’m Shivam
 
-<!--
-**shivam-mk1/shivam-mk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate self-taught programmer specializing in Flutter, Node.js, and Firebase.  
+I love building apps that solve real-world problems and exploring the latest technologies in AI, ML, and Web Development.  
+☕ Caffeine enthusiast | 🌱 Always learning | 💬 Open to collaboration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shivam-2625b5210)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shivam1955893)
+
+---
+
+## 🛠 Tech Stack
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+---
+
+## 🎯 Goals
+- Build impactful applications  
+- Contribute to open-source projects  
+- Learn advanced AI technologies  
+- Share knowledge and help others grow  
+
+---
+
+## 📈 GitHub Stats
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?shivam-mk1=your_github_username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+---
+
+⭐️ Feel free to connect and collaborate!
