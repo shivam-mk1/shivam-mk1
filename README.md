@@ -29,7 +29,7 @@ I love building apps that solve real-world problems and exploring the latest tec
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-mk1&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Shivam's GitHub Stats](https://streak-stats.demolab.com/?user=shivam-mk1&theme=radical)
 
 ---
 
